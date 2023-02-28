@@ -39,3 +39,4 @@ function removeFirstCat(name){
     removeFirstCat.shift()
     return removeFirstCat
 }
+// distructive array
